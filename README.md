@@ -1,1 +1,1 @@
-# Power--Telecom-Churn-Analysis
+# Rishabh Kumar Telecom-Churn-Analysis
